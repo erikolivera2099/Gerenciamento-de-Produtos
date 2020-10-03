@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "arroz",
+      "fornecedor": "Empresa X",
+      "quantidade": 12,
+      "preco": 7
+    },
+    {
+      "id": 2,
+      "name": "feijão",
+      "fornecedor": "Empresa Y",
+      "quantidade": 15,
+      "preco": 5
+    },
+    {
+      "name": "macarrão",
+      "fornecedor": "Empresa Z",
+      "quantidade": 10,
+      "preco": 3.5,
+      "id": 3
+    },
+    {
+      "name": "Farinha",
+      "fornecedor": "Empresa W",
+      "quantidade": "20",
+      "preco": "3.5",
+      "id": 4
+    },
+    {
+      "name": "Leite",
+      "fornecedor": "Empresa Y",
+      "quantidade": "16",
+      "preco": "6.7",
+      "id": 5
+    },
+    {
+      "name": "Macarrão instântaneo",
+      "fornecedor": "Empresa A",
+      "quantidade": "10",
+      "preco": "2.6",
+      "id": 6
+    },
+    {
+      "name": "Bolacha",
+      "fornecedor": "Empresa C",
+      "quantidade": "10",
+      "preco": "2.50",
+      "id": 7
+    }
+  ]
+}
